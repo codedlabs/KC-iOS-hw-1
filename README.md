@@ -26,22 +26,17 @@
 2. iOS قم بطباعة كلمة  
 ![iOS](https://github.com/kuwaitcodes/ios-hw-1/blob/master/ios.png)
 
-
-آخر موعد لرفع الكود\
-11/9/2020
-
-### !بونص 
-1.  قم باستخدام العمليات الشرطية ضمن المطلوب الثالث.
-
 # واجب  - Part2
 ## المحاضرة الثانيه
 يحتوي الجزء الثاني 
 1. Array
 2. if Statement 
 3. For-in-loop
+
 ## بونص
 1. for-in-loop قم بطباعة مربع باستخدام ال 
 ![square](https://github.com/kuwaitcodes/ios-hw-1/blob/master/square.png)
+
 آخر موعد لرفع الكود\
 15/9/2020
 
