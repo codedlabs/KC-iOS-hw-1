@@ -24,7 +24,7 @@
 ## بونص
 1. قم باستخدام العمليات الشرطية ضمن المطلوب الثالث
 2. iOS قم بطباعة كلمة  
-![iOS]()
+![iOS](https://github.com/kuwaitcodes/ios-hw-1/blob/master/ios.png)
 
 
 آخر موعد لرفع الكود\
