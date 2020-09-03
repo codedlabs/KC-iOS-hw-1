@@ -23,7 +23,8 @@
 5. العمليات الشرطيه
 ## بونص
 1. قم باستخدام العمليات الشرطية ضمن المطلوب الثالث
-2. iOS قم بطباعة كلمة  
+2. iOS قم بطباعة كلمة 
+
 ![iOS](https://github.com/kuwaitcodes/ios-hw-1/blob/master/ios.png)
 
 # واجب  - Part2
@@ -34,7 +35,8 @@
 3. For-in-loop
 
 ## بونص
-1. for-in-loop قم بطباعة مربع باستخدام ال 
+1. for-in-loopقم بطباعة مربع باستخدام ال 
+
 ![square](https://github.com/kuwaitcodes/ios-hw-1/blob/master/square.png)
 
 آخر موعد لرفع الكود\
