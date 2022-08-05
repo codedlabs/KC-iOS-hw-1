@@ -1,0 +1,426 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		075D8B252899296400D96FA1 /* Raleway-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B132899296400D96FA1 /* Raleway-SemiBoldItalic.ttf */; };
+		075D8B262899296400D96FA1 /* Raleway-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B142899296400D96FA1 /* Raleway-MediumItalic.ttf */; };
+		075D8B272899296400D96FA1 /* Raleway-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B152899296400D96FA1 /* Raleway-LightItalic.ttf */; };
+		075D8B282899296400D96FA1 /* Raleway-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B162899296400D96FA1 /* Raleway-Thin.ttf */; };
+		075D8B292899296400D96FA1 /* Raleway-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B172899296400D96FA1 /* Raleway-SemiBold.ttf */; };
+		075D8B2A2899296400D96FA1 /* Raleway-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B182899296400D96FA1 /* Raleway-ExtraLight.ttf */; };
+		075D8B2B2899296400D96FA1 /* Raleway-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B192899296400D96FA1 /* Raleway-Black.ttf */; };
+		075D8B2C2899296400D96FA1 /* Raleway-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B1A2899296400D96FA1 /* Raleway-Italic.ttf */; };
+		075D8B2D2899296400D96FA1 /* Raleway-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B1B2899296400D96FA1 /* Raleway-ExtraBoldItalic.ttf */; };
+		075D8B2E2899296400D96FA1 /* Raleway-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B1C2899296400D96FA1 /* Raleway-Bold.ttf */; };
+		075D8B2F2899296400D96FA1 /* Raleway-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B1D2899296400D96FA1 /* Raleway-Regular.ttf */; };
+		075D8B302899296400D96FA1 /* Raleway-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B1E2899296400D96FA1 /* Raleway-ThinItalic.ttf */; };
+		075D8B312899296400D96FA1 /* Raleway-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B1F2899296400D96FA1 /* Raleway-ExtraLightItalic.ttf */; };
+		075D8B322899296400D96FA1 /* Raleway-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B202899296400D96FA1 /* Raleway-BoldItalic.ttf */; };
+		075D8B332899296400D96FA1 /* Raleway-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B212899296400D96FA1 /* Raleway-ExtraBold.ttf */; };
+		075D8B342899296400D96FA1 /* Raleway-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B222899296400D96FA1 /* Raleway-Medium.ttf */; };
+		075D8B352899296400D96FA1 /* Raleway-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B232899296400D96FA1 /* Raleway-Light.ttf */; };
+		075D8B362899296400D96FA1 /* Raleway-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 075D8B242899296400D96FA1 /* Raleway-BlackItalic.ttf */; };
+		079ED9D32898A3DF0085D41E /* FavMoviesPlusApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079ED9D22898A3DF0085D41E /* FavMoviesPlusApp.swift */; };
+		079ED9D52898A3DF0085D41E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079ED9D42898A3DF0085D41E /* ContentView.swift */; };
+		079ED9D72898A3E10085D41E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 079ED9D62898A3E10085D41E /* Assets.xcassets */; };
+		079ED9DA2898A3E10085D41E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 079ED9D92898A3E10085D41E /* Preview Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		075D8B132899296400D96FA1 /* Raleway-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		075D8B142899296400D96FA1 /* Raleway-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-MediumItalic.ttf"; sourceTree = "<group>"; };
+		075D8B152899296400D96FA1 /* Raleway-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-LightItalic.ttf"; sourceTree = "<group>"; };
+		075D8B162899296400D96FA1 /* Raleway-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Thin.ttf"; sourceTree = "<group>"; };
+		075D8B172899296400D96FA1 /* Raleway-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-SemiBold.ttf"; sourceTree = "<group>"; };
+		075D8B182899296400D96FA1 /* Raleway-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-ExtraLight.ttf"; sourceTree = "<group>"; };
+		075D8B192899296400D96FA1 /* Raleway-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Black.ttf"; sourceTree = "<group>"; };
+		075D8B1A2899296400D96FA1 /* Raleway-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Italic.ttf"; sourceTree = "<group>"; };
+		075D8B1B2899296400D96FA1 /* Raleway-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		075D8B1C2899296400D96FA1 /* Raleway-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Bold.ttf"; sourceTree = "<group>"; };
+		075D8B1D2899296400D96FA1 /* Raleway-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Regular.ttf"; sourceTree = "<group>"; };
+		075D8B1E2899296400D96FA1 /* Raleway-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-ThinItalic.ttf"; sourceTree = "<group>"; };
+		075D8B1F2899296400D96FA1 /* Raleway-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		075D8B202899296400D96FA1 /* Raleway-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-BoldItalic.ttf"; sourceTree = "<group>"; };
+		075D8B212899296400D96FA1 /* Raleway-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-ExtraBold.ttf"; sourceTree = "<group>"; };
+		075D8B222899296400D96FA1 /* Raleway-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Medium.ttf"; sourceTree = "<group>"; };
+		075D8B232899296400D96FA1 /* Raleway-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-Light.ttf"; sourceTree = "<group>"; };
+		075D8B242899296400D96FA1 /* Raleway-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Raleway-BlackItalic.ttf"; sourceTree = "<group>"; };
+		075D8B3728992BF700D96FA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		079ED9CF2898A3DF0085D41E /* FavMoviesPlus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FavMoviesPlus.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		079ED9D22898A3DF0085D41E /* FavMoviesPlusApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavMoviesPlusApp.swift; sourceTree = "<group>"; };
+		079ED9D42898A3DF0085D41E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		079ED9D62898A3E10085D41E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		079ED9D92898A3E10085D41E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		079ED9CC2898A3DF0085D41E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		075D8B122899293A00D96FA1 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				075D8B192899296400D96FA1 /* Raleway-Black.ttf */,
+				075D8B242899296400D96FA1 /* Raleway-BlackItalic.ttf */,
+				075D8B202899296400D96FA1 /* Raleway-BoldItalic.ttf */,
+				075D8B1C2899296400D96FA1 /* Raleway-Bold.ttf */,
+				075D8B212899296400D96FA1 /* Raleway-ExtraBold.ttf */,
+				075D8B1B2899296400D96FA1 /* Raleway-ExtraBoldItalic.ttf */,
+				075D8B182899296400D96FA1 /* Raleway-ExtraLight.ttf */,
+				075D8B1F2899296400D96FA1 /* Raleway-ExtraLightItalic.ttf */,
+				075D8B1A2899296400D96FA1 /* Raleway-Italic.ttf */,
+				075D8B232899296400D96FA1 /* Raleway-Light.ttf */,
+				075D8B152899296400D96FA1 /* Raleway-LightItalic.ttf */,
+				075D8B222899296400D96FA1 /* Raleway-Medium.ttf */,
+				075D8B142899296400D96FA1 /* Raleway-MediumItalic.ttf */,
+				075D8B1D2899296400D96FA1 /* Raleway-Regular.ttf */,
+				075D8B172899296400D96FA1 /* Raleway-SemiBold.ttf */,
+				075D8B132899296400D96FA1 /* Raleway-SemiBoldItalic.ttf */,
+				075D8B162899296400D96FA1 /* Raleway-Thin.ttf */,
+				075D8B1E2899296400D96FA1 /* Raleway-ThinItalic.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		079ED9C62898A3DF0085D41E = {
+			isa = PBXGroup;
+			children = (
+				079ED9D12898A3DF0085D41E /* FavMoviesPlus */,
+				079ED9D02898A3DF0085D41E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		079ED9D02898A3DF0085D41E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				079ED9CF2898A3DF0085D41E /* FavMoviesPlus.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		079ED9D12898A3DF0085D41E /* FavMoviesPlus */ = {
+			isa = PBXGroup;
+			children = (
+				075D8B3728992BF700D96FA1 /* Info.plist */,
+				075D8B122899293A00D96FA1 /* Fonts */,
+				079ED9D22898A3DF0085D41E /* FavMoviesPlusApp.swift */,
+				079ED9D42898A3DF0085D41E /* ContentView.swift */,
+				079ED9D62898A3E10085D41E /* Assets.xcassets */,
+				079ED9D82898A3E10085D41E /* Preview Content */,
+			);
+			path = FavMoviesPlus;
+			sourceTree = "<group>";
+		};
+		079ED9D82898A3E10085D41E /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				079ED9D92898A3E10085D41E /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		079ED9CE2898A3DF0085D41E /* FavMoviesPlus */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 079ED9DD2898A3E10085D41E /* Build configuration list for PBXNativeTarget "FavMoviesPlus" */;
+			buildPhases = (
+				079ED9CB2898A3DF0085D41E /* Sources */,
+				079ED9CC2898A3DF0085D41E /* Frameworks */,
+				079ED9CD2898A3DF0085D41E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FavMoviesPlus;
+			productName = FavMoviesPlus;
+			productReference = 079ED9CF2898A3DF0085D41E /* FavMoviesPlus.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		079ED9C72898A3DF0085D41E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1340;
+				LastUpgradeCheck = 1340;
+				TargetAttributes = {
+					079ED9CE2898A3DF0085D41E = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+				};
+			};
+			buildConfigurationList = 079ED9CA2898A3DF0085D41E /* Build configuration list for PBXProject "FavMoviesPlus" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 079ED9C62898A3DF0085D41E;
+			productRefGroup = 079ED9D02898A3DF0085D41E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				079ED9CE2898A3DF0085D41E /* FavMoviesPlus */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		079ED9CD2898A3DF0085D41E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				075D8B312899296400D96FA1 /* Raleway-ExtraLightItalic.ttf in Resources */,
+				075D8B2A2899296400D96FA1 /* Raleway-ExtraLight.ttf in Resources */,
+				075D8B2D2899296400D96FA1 /* Raleway-ExtraBoldItalic.ttf in Resources */,
+				075D8B252899296400D96FA1 /* Raleway-SemiBoldItalic.ttf in Resources */,
+				075D8B332899296400D96FA1 /* Raleway-ExtraBold.ttf in Resources */,
+				075D8B2B2899296400D96FA1 /* Raleway-Black.ttf in Resources */,
+				075D8B262899296400D96FA1 /* Raleway-MediumItalic.ttf in Resources */,
+				075D8B272899296400D96FA1 /* Raleway-LightItalic.ttf in Resources */,
+				075D8B362899296400D96FA1 /* Raleway-BlackItalic.ttf in Resources */,
+				075D8B282899296400D96FA1 /* Raleway-Thin.ttf in Resources */,
+				075D8B2E2899296400D96FA1 /* Raleway-Bold.ttf in Resources */,
+				075D8B2C2899296400D96FA1 /* Raleway-Italic.ttf in Resources */,
+				079ED9DA2898A3E10085D41E /* Preview Assets.xcassets in Resources */,
+				075D8B322899296400D96FA1 /* Raleway-BoldItalic.ttf in Resources */,
+				075D8B342899296400D96FA1 /* Raleway-Medium.ttf in Resources */,
+				075D8B2F2899296400D96FA1 /* Raleway-Regular.ttf in Resources */,
+				075D8B302899296400D96FA1 /* Raleway-ThinItalic.ttf in Resources */,
+				075D8B352899296400D96FA1 /* Raleway-Light.ttf in Resources */,
+				079ED9D72898A3E10085D41E /* Assets.xcassets in Resources */,
+				075D8B292899296400D96FA1 /* Raleway-SemiBold.ttf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		079ED9CB2898A3DF0085D41E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				079ED9D52898A3DF0085D41E /* ContentView.swift in Sources */,
+				079ED9D32898A3DF0085D41E /* FavMoviesPlusApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		079ED9DB2898A3E10085D41E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		079ED9DC2898A3E10085D41E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		079ED9DE2898A3E10085D41E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"FavMoviesPlus/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FavMoviesPlus/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.fav.movies.vip.FavMoviesPlus;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		079ED9DF2898A3E10085D41E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"FavMoviesPlus/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = FavMoviesPlus/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.fav.movies.vip.FavMoviesPlus;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		079ED9CA2898A3DF0085D41E /* Build configuration list for PBXProject "FavMoviesPlus" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				079ED9DB2898A3E10085D41E /* Debug */,
+				079ED9DC2898A3E10085D41E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		079ED9DD2898A3E10085D41E /* Build configuration list for PBXNativeTarget "FavMoviesPlus" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				079ED9DE2898A3E10085D41E /* Debug */,
+				079ED9DF2898A3E10085D41E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 079ED9C72898A3DF0085D41E /* Project object */;
+}

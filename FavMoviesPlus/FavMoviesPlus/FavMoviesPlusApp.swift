@@ -1,14 +1,14 @@
 //
-//  FavMoviesApp.swift
-//  FavMovies
+//  FavMoviesPlusApp.swift
+//  FavMoviesPlus
 //
-//  Created by HEBA AHMED on 01/08/2022.
+//  Created by HEBA AHMED on 02/08/2022.
 //
 
 import SwiftUI
 
 @main
-struct FavMoviesApp: App {
+struct FavMoviesPlusApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
